@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Paris, France",
+    "slug": "paris-france",
+    "country": "France",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=800&q=80",
+    "short_description": "The city of love, iconic for the Eiffel Tower and romantic streets.",
+    "description": "Paris is known for its art, fashion, gastronomy, and culture. Explore the Louvre, Eiffel Tower, and charming old streets.",
+    "best_time_to_visit": "April to June, September to November"
+  },
+  {
+    "id": 2,
+    "name": "Tokyo, Japan",
+    "slug": "tokyo-japan",
+    "country": "Japan",
+    "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?auto=format&fit=crop&w=800&q=80",
+    "short_description": "A perfect mix of modern skyscrapers and ancient temples.",
+    "description": "Tokyo offers high-tech city life, traditional shrines, delicious sushi, and beautiful cherry blossoms.",
+    "best_time_to_visit": "March to May, October to November"
+  },
+  {
+    "id": 3,
+    "name": "Bali, Indonesia",
+    "slug": "bali-indonesia",
+    "country": "Indonesia",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Famous for beaches, temples, culture, and natural beauty.",
+    "description": "Bali is a tropical paradise with volcanoes, beaches, coral reefs, and friendly local culture.",
+    "best_time_to_visit": "April to October"
+  },
+  {
+    "id": 4,
+    "name": "New York City, USA",
+    "slug": "new-york-city-usa",
+    "country": "USA",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=800&q=80",
+    "short_description": "The city that never sleeps with iconic places like Times Square.",
+    "description": "NYC offers skyscrapers, culture, Broadway, shopping, and diverse food experiences.",
+    "best_time_to_visit": "April to June, September to early November"
+  },
+  {
+    "id": 5,
+    "name": "Sydney, Australia",
+    "slug": "sydney-australia",
+    "country": "Australia",
+    "image": "https://images.unsplash.com/photo-1506973035872-a4e0677f1a61?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Home to the Sydney Opera House and Harbour Bridge.",
+    "description": "Sydney blends beaches, vibrant city life, nature, and popular landmarks.",
+    "best_time_to_visit": "September to November, March to May"
+  },
+  {
+    "id": 6,
+    "name": "London, UK",
+    "slug": "london-uk",
+    "country": "United Kingdom",
+    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=800&q=80",
+    "short_description": "A global city with history, museums, and famous landmarks.",
+    "description": "Visit the London Eye, Big Ben, Buckingham Palace, and explore rich British culture.",
+    "best_time_to_visit": "March to May"
+  },
+  {
+    "id": 7,
+    "name": "Dubai, UAE",
+    "slug": "dubai-uae",
+    "country": "UAE",
+    "image": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=800&q=80",
+    "short_description": "City of luxury, skyscrapers, and desert adventures.",
+    "description": "Dubai offers futuristic architecture, shopping malls, safaris, and the Burj Khalifa.",
+    "best_time_to_visit": "November to March"
+  },
+  {
+    "id": 8,
+    "name": "Rome, Italy",
+    "slug": "rome-italy",
+    "country": "Italy",
+    "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Explore ancient ruins like the Colosseum.",
+    "description": "Rome is full of history, culture, architecture, and delicious Italian cuisine.",
+    "best_time_to_visit": "April to June, September to October"
+  },
+  {
+    "id": 9,
+    "name": "Santorini, Greece",
+    "slug": "santorini-greece",
+    "country": "Greece",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Famous for blue-domed white houses and sunsets.",
+    "description": "Santorini offers beaches, volcanic landscapes, luxury stays, and breathtaking sunsets.",
+    "best_time_to_visit": "May to October"
+  },
+  {
+    "id": 10,
+    "name": "Maldives",
+    "slug": "maldives",
+    "country": "Maldives",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+    "short_description": "World-famous for crystal-clear water and luxury resorts.",
+    "description": "Maldives is a paradise for honeymooners with underwater villas and beautiful marine life.",
+    "best_time_to_visit": "December to April"
+  },
+  {
+    "id": 11,
+    "name": "Bangkok, Thailand",
+    "slug": "bangkok-thailand",
+    "country": "Thailand",
+    "image": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=800&q=80",
+    "short_description": "A vibrant city with temples and amazing food culture.",
+    "description": "Bangkok mixes modern city vibes with temples, markets, nightlife, and river cruises.",
+    "best_time_to_visit": "November to February"
+  },
+  {
+    "id": 12,
+    "name": "Seoul, South Korea",
+    "slug": "seoul-south-korea",
+    "country": "South Korea",
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Modern technology meets K-culture and tradition.",
+    "description": "Seoul is famous for K-pop, palaces, markets, and beautiful seasons.",
+    "best_time_to_visit": "March to May, September to November"
+  },
+  {
+    "id": 13,
+    "name": "Istanbul, Turkey",
+    "slug": "istanbul-turkey",
+    "country": "Turkey",
+    "image": "https://images.unsplash.com/photo-1505245208761-ba872912fac0?auto=format&fit=crop&w=800&q=80",
+    "short_description": "The city between Europe and Asia.",
+    "description": "Istanbul offers mosques, bazaars, historical architecture, and rich culture.",
+    "best_time_to_visit": "April to May, September to October"
+  },
+  {
+    "id": 14,
+    "name": "Kathmandu, Nepal",
+    "slug": "kathmandu-nepal",
+    "country": "Nepal",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Gateway to the Himalayas and rich traditions.",
+    "description": "Kathmandu is full of temples, culture, spiritual sites, and mountain views.",
+    "best_time_to_visit": "September to November"
+  },
+  {
+    "id": 15,
+    "name": "Cape Town, South Africa",
+    "slug": "cape-town-south-africa",
+    "country": "South Africa",
+    "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Mountains, beaches, and wildlife in one place.",
+    "description": "Cape Town offers Table Mountain, beaches, wine tours, and scenic beauty.",
+    "best_time_to_visit": "March to May, September to November"
+  },
+  {
+    "id": 16,
+    "name": "Rio de Janeiro, Brazil",
+    "slug": "rio-de-janeiro-brazil",
+    "country": "Brazil",
+    "image": "https://images.unsplash.com/photo-1506745203502-1d4a814d5f95?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Home to Christ the Redeemer and vibrant culture.",
+    "description": "Rio is known for Carnival festival, beaches like Copacabana, and mountain views.",
+    "best_time_to_visit": "December to March"
+  },
+  {
+    "id": 17,
+    "name": "Singapore",
+    "slug": "singapore",
+    "country": "Singapore",
+    "image": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=800&q=80",
+    "short_description": "A futuristic city with clean streets and lush gardens.",
+    "description": "Visit Marina Bay Sands, Sentosa Island, and Gardens by the Bay.",
+    "best_time_to_visit": "February to April"
+  },
+  {
+    "id": 18,
+    "name": "Hong Kong",
+    "slug": "hong-kong",
+    "country": "China",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Skyline views and vibrant nightlife.",
+    "description": "Hong Kong offers shopping, mountain peaks, temples, and city experiences.",
+    "best_time_to_visit": "October to December"
+  },
+  {
+    "id": 19,
+    "name": "Phuket, Thailand",
+    "slug": "phuket-thailand",
+    "country": "Thailand",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "short_description": "Beautiful beaches and island adventures.",
+    "description": "Phuket is famous for beaches, nightlife, islands, and water activities.",
+    "best_time_to_visit": "November to April"
+  },
+  {
+    "id": 20,
+    "name": "Cox’s Bazar, Bangladesh",
+    "slug": "coxs-bazar-bangladesh",
+    "country": "Bangladesh",
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "short_description": "The longest natural sea beach in the world.",
+    "description": "Cox’s Bazar offers long sandy beaches, seafood, markets, and marine drives.",
+    "best_time_to_visit": "October to March"
+  }
+]
