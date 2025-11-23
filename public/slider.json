@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80",
+    "text": "Mountain Adventure"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "text": "Beach Paradise"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=800&q=80",
+    "text": "City Lights"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=800&q=80",
+    "text": "Desert Escape"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=800&q=80",
+    "text": "Forest Retreat"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80",
+    "text": "Snowy Peaks"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=800&q=80",
+    "text": "Lakeside Serenity"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&w=800&q=80",
+    "text": "Countryside Charm"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1433878455169-4698e60005b1?auto=format&fit=crop&w=800&q=80",
+    "text": "Sunset Bliss"
+  }
+]
