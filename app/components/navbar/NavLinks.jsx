@@ -1,25 +1,40 @@
 "use client";
 
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
-const NavLinks = () => (
-  <>
-    <li>
-      <Link href={"/"}>Home</Link>
-    </li>
-    <li>
-      <Link href={"/destinations"}>Destinations</Link>
-    </li>
-    <li>
-      <Link href={"/news"}>News</Link>
-    </li>
-    <li>
-      <Link href={"/about-us"}>About Us</Link>
-    </li>
-    <li>
-      <Link href={"/contact-us"}>Contact Us</Link>
-    </li>
-  </>
-);
+const NavLinks = () => {
+  const pathname = usePathname();
+
+  return (
+    <>
+      <li>
+        <Link href={"/"} className={pathname === "/" ? "text-blue-500 font-bold" : ""}>
+          Home
+        </Link>
+      </li>
+      <li>
+        <Link href={"/destinations"} className={pathname === "/destinations" ? "text-blue-500 font-bold" : ""}>
+          Destinations
+        </Link>
+      </li>
+      <li>
+        <Link href={"/news"} className={pathname === "/news" ? "text-blue-500 font-bold" : ""}>
+          News
+        </Link>
+      </li>
+      <li>
+        <Link href={"/about-us"} className={pathname === "/about-us" ? "text-blue-500 font-bold" : ""}>
+          About Us
+        </Link>
+      </li>
+      <li>
+        <Link href={"/contact-us"} className={pathname === "/contact-us" ? "text-blue-500 font-bold" : ""}>
+          Contact Us
+        </Link>
+      </li>
+    </>
+  );
+};
 
 export default NavLinks;
